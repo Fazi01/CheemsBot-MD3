@@ -43,7 +43,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['6288271609722'] //ur owner number
 global.ownername = "Fazi"
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.ytname = "gada channel yt gua" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "mars, Mizoram, Aizawl" //ur location
 
@@ -52,12 +52,12 @@ global.botname = "Fzii" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.author = "🦄Fzii"
 global.themeemoji = "🐶"
-global.reactmoji = "😘"
+global.reactmoji = "😱😎"
 global.ownertag = ['6288271609722'] //ur owner tag
 global.ownernummenu = ['6288271609722'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
+global.watermark = "Fzii bot." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
