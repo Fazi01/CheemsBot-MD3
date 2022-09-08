@@ -43,7 +43,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['6288271609722'] //ur owner number
 global.ownername = "Fazi"
-global.ytname = "gada channel yt gua" //ur yt chanel name
+global.ytname = "tiktok.com/@fzi_ii" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "mars, Mizoram, Aizawl" //ur location
 
@@ -59,7 +59,7 @@ global.ownertag = ['6288271609722'] //ur owner tag
 global.ownernummenu = ['6288271609722'] //ur owner number in menu and all
 global.watermark = "Fzii bot." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
+global.linkz1 = "https://chat.whatsapp.com/CDGG1ygZmZRCiFGtzXwBQj"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
 
 //Bot theme media
