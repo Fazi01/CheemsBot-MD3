@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6288271609722'] //ur owner number
+global.owner = ['6285878291627'] //ur owner number
 global.ownername = "Fazi"
 global.ytname = "https://youtube.com/channel/UCwWWUFm1wTnw30PVmLECxog" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
@@ -55,8 +55,8 @@ global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Fzii"
 global.themeemoji = "👇"
 global.reactmoji = "🗿"
-global.ownertag = ['6288271609722'] //ur owner tag
-global.ownernummenu = ['6288271609722'] //ur owner number in menu and all
+global.ownertag = ['6285878291627'] //ur owner tag
+global.ownernummenu = ['6285878291627'] //ur owner number in menu and all
 global.watermark = "Fzii bot." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/CDGG1ygZmZRCiFGtzXwBQj"
